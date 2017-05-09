@@ -10,7 +10,7 @@ html,body {
 	padding: 0px;
 	margin: 0px;
 	font-family:"Roboto";
-	background-color:rgb(40,40,40);	
+	background-color:rgb(249,249,249);	
 }
 
 div {
@@ -36,7 +36,7 @@ div#top-right {
 	/*top/bottom, left/right*/
 	/*all*/
 	padding: 3% 8%;
-	color: rgb(255, 50, 50);
+	color: rgb(40, 40, 40);
 }
 
 div#Bottom{
